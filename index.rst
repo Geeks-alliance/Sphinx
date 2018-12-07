@@ -8,12 +8,12 @@ Welcome to Geeks-alliance's documentation!
 *Geeks-alliance分离自Geekeyes 由一群热爱技术的人们维护!*
 
 介绍
-**
+****
 Geeks-alliance 的文档库.
 这里主要分为3个模块 **[BUG记录区 工具分享区 技术教程区]**
 
 帮助我们
-****
+********
 参与我们的文档建设: https://github.com/Geeks-alliance/Sphinx
 
 加入我们的QQ群: 956677153
