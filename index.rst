@@ -10,7 +10,8 @@ Welcome to Geeks-alliance's documentation!
 介绍
 ****
 Geeks-alliance 的文档库.
-这里主要分为3个模块 **[BUG记录区 工具分享区 技术教程区]**
+
+这里主要分为3个模块 *[问题记录区 工具分享区 技术教程区]*
 
 帮助我们
 ********
@@ -25,3 +26,6 @@ Geeks-alliance 的文档库.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   ::问题记录区
+   ::工具分享区
+   ::技术教程区
